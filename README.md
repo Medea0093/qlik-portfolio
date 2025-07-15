@@ -61,3 +61,6 @@ Tutti i dati e i file presenti sono **fittizi o anonimizzati**. Nessuna informaz
 ---
 
 ## 📫 Contatti
+
+pantaleone93@gmail.com
+https://www.linkedin.com/in/francesca-pantaleone/
